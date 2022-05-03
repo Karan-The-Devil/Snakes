@@ -3,10 +3,12 @@ Hi There!
 This is a "Snake" game made by me using random module and pygame module in pythyon. You can play this game by downloading the random and pygame module from your terminal. The code to download the modules is given below:
 
 For random module:
+    
     pip install random
 
 
 For pygame module:
+    
     pip install pygame
 
 
