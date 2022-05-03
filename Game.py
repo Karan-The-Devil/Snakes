@@ -119,7 +119,6 @@ def gameloop():
 
             if var_x<0 or var_x>screen_width or var_y<0 or var_y>screen_hight:
                 over = True
-                print("Game over!")
             head = []
             head.append(var_x)
             head.append(var_y)
